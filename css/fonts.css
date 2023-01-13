@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://img.freepik.com/foto-gratis/textura-rugosa-pared-enyesada-cemento-blanco_53876-63611.jpg?w=360);
+ 
+ 
+    box-shadow: 0px 0px 15px #222;
+   
+ 
+}
+h2{
+   
+    font-family: 'Permanent Marker', cursive;
+    font-size:35px;
+    color:rgb(31, 57, 80)
+ 
+}
+h1{
+ 
+    text-decoration: underline;
+    font-family: 'Permanent Marker', cursive;
+    font-size:50px;
+    color:rgb(0, 0, 0)
+ 
+}
+p{
+    font-stretch:ultra-expanded;
+ 
+    font-weight: 570;
+    font-family: 'Caveat', cursive;
+    font-size:38px;
+    line-height: 90%;
+    color:rgb(0, 0, 0)
+}
