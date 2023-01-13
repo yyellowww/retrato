@@ -1,0 +1,31 @@
+body {
+    box-shadow:0px 0px 20px #222;
+    background-color:rgba(232, 242, 246, 0.866);
+    
+   
+ 
+}
+h2{
+   
+    font-family: 'Permanent Marker', cursive;
+    font-size:25px;
+    color:rgb(31, 57, 80);
+ 
+}
+h1{
+ 
+    text-decoration: underline;
+    font-family: 'Permanent Marker', cursive;
+    font-size:50px;
+    color:rgb(0, 0, 0)
+ 
+}
+p{
+    font-stretch:ultra-expanded;
+ 
+    font-weight: 570;
+    font-family: 'Caveat', cursive;
+    font-size:38px;
+    line-height: 90%;
+    color:rgb(0, 0, 0);
+}
